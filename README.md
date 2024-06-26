@@ -1,5 +1,4 @@
 # Streamify
-
 ## Overview
 
 **Streamify** is a modern and versatile media player built using the MERN stack (MongoDB, Express.js, React, and Node.js). It provides users with a seamless experience for streaming and managing media files.
