@@ -40,7 +40,8 @@ The user profile page displays user information and a list of their uploaded med
 
 Watch a short video demonstration of **Streamify** in action:
 
-[![Streamify Video](https://youtu.be/radwVVnNJyA)
+[![Streamify Video](streamify.png)](https://www.youtube.com/watch?v=radwVVnNJyA)
+
 
 ## Getting Started
 
