@@ -36,13 +36,11 @@ The user profile page displays user information and a list of their uploaded med
 
 
 
-The upload media page enables users to upload new media files with ease.
-
 ## Video Demonstration
 
 Watch a short video demonstration of **Streamify** in action:
 
-[![Streamify Video](Streamify - Personal - Microsoft​ Edge 2024-06-27 02-25-28.mp4)
+[![Streamify Video](https://youtu.be/radwVVnNJyA)
 
 ## Getting Started
 
