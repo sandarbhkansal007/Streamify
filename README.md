@@ -35,18 +35,6 @@ The user profile page displays user information and a list of their uploaded med
 
 
 
-
-## Video Demonstration
-
-Watch a short video demonstration of **Streamify** in action:
-
-<div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/radwVVnNJyA?si=TMbIO2Ya3qgqsT1Z" frameborder="0" allowfullscreen></iframe>
-</div>
-
-
-
-
 ## Getting Started
 
 ### Prerequisites
