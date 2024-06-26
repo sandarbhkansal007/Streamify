@@ -41,7 +41,7 @@ The user profile page displays user information and a list of their uploaded med
 Watch a short video demonstration of **Streamify** in action:
 
 <div align="center">
-  <iframe width="560" height="315" src="https://www.youtube.com/watch?v=radwVVnNJyA" frameborder="0" allowfullscreen></iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/radwVVnNJyA?si=TMbIO2Ya3qgqsT1Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 
